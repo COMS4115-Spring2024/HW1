@@ -1,2 +1,0 @@
-# HW1
-COMS 4115 PLT HW 1
