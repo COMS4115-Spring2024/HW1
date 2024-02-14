@@ -49,7 +49,7 @@ Submission
 
 For submission, we will be using GitHub Classroom. Submit a definition of all the relevant functions collected into a file called *submission_hw1.ml*. To test your submission, we will basically append (using `open`) *submission_hw1.ml* to a suite of unit tests. Although there are many brute force solutions that exists to solve these problems, getting in the habit of writing elegant and maintainable code will pay-off handsomely as the course progresses.
 
-Start by accepting the invitation to the Github Classroom [https://classroom.github.com/a/-sEM78u5](https://classroom.github.com/a/-sEM78u5) then cloning the template and unit tests from the repository. You should also be able to access it through `githubclassroom` link in Canvas.
+Start by accepting the invitation to the Github Classroom [https://classroom.github.com/a/ChQkiZss](https://classroom.github.com/a/ChQkiZss) then cloning the template and unit tests from the repository. You should also be able to access it through `githubclassroom` link in Canvas.
 
 **DUEDATE: Feb 26, 2024 at 11:59pm**
 
