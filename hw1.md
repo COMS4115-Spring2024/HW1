@@ -83,6 +83,8 @@ Problem 7.B:
   OOPS
 ```
 
+A `Makefile` has also been provided, with the commands `run` and `clean`.
+
 Warm Up: First-class Functions
 ------------
 
